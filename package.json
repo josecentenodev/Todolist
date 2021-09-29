@@ -9,12 +9,12 @@
     "version": "1.0.0",
     "main": "app.js",
     "scripts": {
-        "start": "node app.js"
+        "start": "npm start"
     },
     "author": "",
     "license": "ISC",
     "engines": {
-        "node": "15.11.0"
+        "node": "14.17.6"
     },
     "description": ""
 }
